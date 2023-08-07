@@ -12,7 +12,7 @@ I'm also gaining practical experience while working for BeCode s.r.o. Here, I ha
 
 ## Projects 🛠️
 
-I have ventured into a few projects, though they are primarily guided by tutorials and online courses, especially on Scrimba. But they are essential milestones in my learning curve, showing the progress I've made over the months. Currently, I'm navigating through the Frontend Developer Career Path on Scrimba and focus more on working with the Reakt.
+I have ventured into a few projects, though they are primarily guided by tutorials and online courses, especially on Scrimba. But they are essential milestones in my learning curve, showing the progress I've made over the months. I am currently taking a React course, and alongside that, I am working on improving my programming skills.
 
 ## Collaboration 🤝
 
