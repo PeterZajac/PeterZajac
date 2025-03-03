@@ -1,6 +1,6 @@
 # Welcome to my GitHub profile! 👋
 
-Hello, my name is Peter Zajac! 🚀 I'm a Computer Science student at Pan-European University in Bratislava. 🎓 
+Hello, my name is Peter Zajac! 🚀 I'm a Computer Science student at Pan-European University in Bratislava, and Software developer at Riwers.io. 🎓 
 
 ## About Me🧑‍💻
 
